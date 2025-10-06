@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/interactive-validation-form-NM/static/css/main.34af2d43.css",
-    "main.js": "/interactive-validation-form-NM/static/js/main.c70e9c17.js",
-    "index.html": "/interactive-validation-form-NM/index.html",
-    "main.34af2d43.css.map": "/interactive-validation-form-NM/static/css/main.34af2d43.css.map",
-    "main.c70e9c17.js.map": "/interactive-validation-form-NM/static/js/main.c70e9c17.js.map"
+    "main.css": "/Interactive-validation-form--NM/static/css/main.34af2d43.css",
+    "main.js": "/Interactive-validation-form--NM/static/js/main.c70e9c17.js",
+    "index.html": "/Interactive-validation-form--NM/index.html",
+    "main.34af2d43.css.map": "/Interactive-validation-form--NM/static/css/main.34af2d43.css.map",
+    "main.c70e9c17.js.map": "/Interactive-validation-form--NM/static/js/main.c70e9c17.js.map"
   },
   "entrypoints": [
     "static/css/main.34af2d43.css",
